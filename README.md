@@ -9,3 +9,8 @@ This repository contains my solution for the Module 1 Challenge:
 The elements follow a logical structure.  Added accessible alt attributes to the image 
 elements that give a brief description of what each image is.  Heading attributes fall 
 in sequential order.  Title element is a concise, descriptive title.
+
+
+## Code Source
+
+Based on the work of Xandromus and Georgeyoo https://github.com/coding-boot-camp/urban-octo-telegram
